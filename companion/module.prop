@@ -1,0 +1,7 @@
+id=jesec-kernel-xyz
+name=jesec kernel module
+version=v1.0
+versionCode=1
+author=jesec
+description=Companion Module for jesec's Kernel
+support=https://forum.xda-developers.com/member.php?u=6371894
